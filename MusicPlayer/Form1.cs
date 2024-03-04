@@ -11,5 +11,20 @@ namespace MusicPlayer
         {
 
         }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button14_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
